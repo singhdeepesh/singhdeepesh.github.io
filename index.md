@@ -1,6 +1,6 @@
 
 ## About me
-
+I'm a 
 ## Current Projects
 
 ## Academic Qualifications

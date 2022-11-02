@@ -11,8 +11,8 @@ I'm a 2nd year PhD student working in the School of Mathematics and Physics at U
 2. PhD in Physics - University of Queensland (Australia), 2021-present
 
 ## Publications
-1. Optical cluster-state generation with unitary averaging. [Link](https://arxiv.org/abs/2209.15282)
-2. QuNet: Cost vector analysis & multi-path entanglement routing in quantum networks  [Link](https://arxiv.org/abs/2105.00418)
+1. Optical cluster-state generation with unitary averaging. [arXiv](https://arxiv.org/abs/2209.15282)
+2. QuNet: Cost vector analysis & multi-path entanglement routing in quantum networks  [arXiv](https://arxiv.org/abs/2105.00418)
 
 ## Talks & Presentations
 1. Talk on Quantum Radars at the IEE Sensing office - Luxembourg, 2018
@@ -21,5 +21,5 @@ I'm a 2nd year PhD student working in the School of Mathematics and Physics at U
 4. Talk on Averaged Fusion Gates at the Teach at the Beach event by UQ Optica society - Gold Coast, 2022 
 
 ## Contact me
-<deepesh.sang@gmail.com>
-[Link](https://www.linkedin.com/in/deepesh--singh/)
+1. <deepesh.sang@gmail.com>
+2. [LinkedIn](https://www.linkedin.com/in/deepesh--singh/)

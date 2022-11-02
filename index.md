@@ -22,4 +22,5 @@ I'm a 2nd year PhD student working in the School of Mathematics and Physics at U
 
 ## Contact me
 1. <deepesh.sang@gmail.com>
-2. [LinkedIn](https://www.linkedin.com/in/deepesh--singh/)
+2. <deepesh.singh@uq.edu.au>
+3. [LinkedIn](https://www.linkedin.com/in/deepesh--singh/)

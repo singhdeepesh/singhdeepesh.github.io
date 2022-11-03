@@ -8,7 +8,7 @@ I'm a 2nd year PhD student working in the School of Mathematics and Physics at U
 
 ## Publications
 1. QuNet: Cost vector analysis & multi-path entanglement routing in quantum networks (2021) [arXiv](https://arxiv.org/abs/2105.00418)
-2. Optical cluster-state generation with unitary averaging (2021) [arXiv](https://arxiv.org/abs/2209.15282)
+2. Optical cluster-state generation with unitary averaging (2022) [arXiv](https://arxiv.org/abs/2209.15282)
 
 ## Current Projects
 1. Optical implementation of Grover's search algorithm (with Prof. Andrew White, UQ)

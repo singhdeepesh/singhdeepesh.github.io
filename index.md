@@ -19,6 +19,13 @@ I'm a 2nd year PhD student working in the School of Mathematics and Physics at U
 2. Talk on Microwave Illumination at the Bonn-Cologne Graduate School Scholarship programme - University of Cologne (2019)
 3. Presented poster on Quantum Networks at the ARC Centre for Quantum Computation and Technology annual workshop - Tasmania (2022)
 4. Talk on Averaged Fusion Gates at the Teach at the Beach event by UQ Optica society - Gold Coast (2022) 
+5. Talk on Averaged Fusion Gates at the Sydney Nanoscience Hub - University of Sydney (2022)
+
+## Visits
+1. Macquarie University (April-June 2017)
+2. University of Luxembourg (April-June 2018)
+3. Bonn-Cologne Graduate School (March 2019)
+4. Macquarie University (November 2022)
 
 ## Contact me
 1. <deepesh.sang@gmail.com>

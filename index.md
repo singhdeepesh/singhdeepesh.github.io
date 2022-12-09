@@ -21,12 +21,18 @@ I'm a 2nd year PhD student working in the School of Mathematics and Physics at t
 3. Presented poster on Quantum Networks at the ARC Centre for Quantum Computation and Technology annual workshop - Tasmania (2022)
 4. Talk on Averaged Fusion Gates at the Teach at the Beach event by UQ Optica society - Gold Coast (2022) 
 5. Talk on Averaged Fusion Gates at the Sydney Nanoscience Hub - University of Sydney (2022)
+6. Accepted poster on Averaged Fusion Gates at Young Quantum, Harish-Chandra Research Institute (HRI) (2023)
 
 ## Visits
 1. Macquarie University (April-June 2017)
 2. University of Luxembourg (April-June 2018)
 3. Bonn-Cologne Graduate School (March 2019)
 4. Macquarie University (November 2022)
+
+## Additional Roles
+1. Wellness ambassdor, School of Mathematics and Physics, UQ (2022)
+2. Teaching Assistant, UQ & UCalgary (2022)
+3. Vice-President, UQ Optica student chapter (2023)
 
 ## Contact me
 1. <deepesh.sang@gmail.com>

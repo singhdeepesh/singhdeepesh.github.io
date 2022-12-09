@@ -33,7 +33,9 @@ I'm a 2nd year PhD student working in the School of Mathematics and Physics at t
 2. <deepesh.singh@uq.edu.au>
 
 ## Other Profiles
-1. [LinkedIn](https://www.linkedin.com/in/deepesh--singh/)
-2. [Twitter](https://twitter.com/deepesh__singh)
-3. [EQuS Research Affiliate](https://equs.org/users/deepesh-singh)
-4. [Casual Tutor, UQ](https://smp.uq.edu.au/profile/11784/deepesh-singh)
+1. [arXiv](http://arxiv.org/a/singh_d_6)
+2. [Google Scholar](https://scholar.google.com.au/citations?user=oC0b35QAAAAJ&hl=en)
+3. [LinkedIn](https://www.linkedin.com/in/deepesh--singh/)
+4. [Twitter](https://twitter.com/deepesh__singh)
+5. [EQuS Research Affiliate](https://equs.org/users/deepesh-singh)
+6. [Casual Tutor, UQ](https://smp.uq.edu.au/profile/11784/deepesh-singh)

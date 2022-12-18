@@ -21,7 +21,8 @@ I'm a 2nd year PhD student working in the School of Mathematics and Physics at t
 3. Presented poster on Quantum Networks at the ARC Centre for Quantum Computation and Technology annual workshop - Tasmania (2022)
 4. Talk on Averaged Fusion Gates at the Teach at the Beach event by UQ Optica society - Gold Coast (2022) 
 5. Talk on Averaged Fusion Gates at the Sydney Nanoscience Hub - University of Sydney (2022)
-6. Accepted poster on Averaged Fusion Gates at Young Quantum, Harish-Chandra Research Institute (HRI) (2023)
+6. Presented poster on Unitary Averaging at the 22th Asian Quantum Information Science Conference - Online (2022)
+7. Accepted poster on Averaged Fusion Gates at Young Quantum, Harish-Chandra Research Institute (HRI) (2023)
 
 ## Visits
 1. Macquarie University (April-June 2017)

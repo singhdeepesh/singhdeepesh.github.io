@@ -16,19 +16,23 @@ I'm a 2nd year PhD student working in the School of Mathematics and Physics at t
 2. Polynomial invariants of linear optics (with Dr. Austin Lund, UQ)
 
 ## Talks & Presentations
-1. Talk on Quantum Radars at the IEE Sensing office - Luxembourg (2018)
-2. Talk on Microwave Illumination at the Bonn-Cologne Graduate School Scholarship programme - University of Cologne (2019)
-3. Presented poster on Quantum Networks at the ARC Centre for Quantum Computation and Technology annual workshop - Tasmania (2022)
-4. Talk on Averaged Fusion Gates at the Teach at the Beach event by UQ Optica society - Gold Coast (2022) 
-5. Talk on Averaged Fusion Gates at the Sydney Nanoscience Hub - University of Sydney (2022)
-6. Presented poster on Unitary Averaging at the 22th Asian Quantum Information Science Conference - Online (2022)
-7. Accepted poster on Averaged Fusion Gates at Young Quantum, Harish-Chandra Research Institute (HRI) (2023)
+1. Talk on Quantum Radars at the IEE Sensing office - Luxembourg (June, 2018)
+2. Talk on Microwave Illumination at the Bonn-Cologne Graduate School Scholarship programme - University of Cologne (March, 2019)
+3. Presented poster on Quantum Networks at the ARC Centre for Quantum Computation and Technology annual workshop - Tasmania (July, 2022)
+4. Talk on Averaged Fusion Gates at the Teach at the Beach event by UQ Optica society - Gold Coast (October, 2022) 
+5. Talk on Averaged Fusion Gates at the Sydney Nanoscience Hub - University of Sydney (November, 2022)
+6. Presented poster on Unitary Averaging at the 22th Asian Quantum Information Science Conference - Online (December, 2022)
+7. Accepted poster on Averaged Fusion Gates at Young Quantum, Harish-Chandra Research Institute (HRI) (February, 2023)
+8. Talk on 'Linear combination of unitaries in Linear Optics' at the Jonathan Dowling Memorial Conference organised by the Macquarie Centre for Quantum Engineering - The Quantum Terminal, Sydney (January, 2023)
 
 ## Visits
 1. Macquarie University (April-June 2017)
 2. University of Luxembourg (April-June 2018)
 3. Bonn-Cologne Graduate School (March 2019)
 4. Macquarie University (November 2022)
+
+## Workshops and Summer Schools
+1. Attended the Random Matrix Theory in Quantum Information summer school organised by the Australian Mathematical Sciences Institute (AMSI) - University of Melbourne (January, 2023)
 
 ## Additional Roles
 1. Wellness ambassdor, School of Mathematics and Physics, UQ (2022)

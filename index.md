@@ -14,9 +14,8 @@ I'm a 2nd year PhD student working in the School of Mathematics and Physics at t
 ## Current Projects
 1. Optical implementation of Grover's search algorithm (with Prof. Andrew White, UQ)
 2. Polynomial invariants of linear optics (with Dr. Austin Lund, UQ)
-3. One-way functions using Boson sampling (with Dr. Peter Rohde, UTS and Prof. Gavin Brennen, Macquarie University)
-4. Scattershot Boson sampling (with Dr. Austin Lund, UQ)
-5. Linear Combination of Unitaries (with Dr. Ryan Marshman, Dr. Austin Lund, Prof. Tim Ralph)
+3. Scattershot Boson sampling (with Dr. Austin Lund, UQ)
+4. Linear Combination of Unitaries (with Dr. Ryan Marshman, Dr. Austin Lund, Prof. Tim Ralph)
 
 ## Talks & Presentations
 1. Talk on Quantum Radars at the IEE Sensing office - Luxembourg (June, 2018)

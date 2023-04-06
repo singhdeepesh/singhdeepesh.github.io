@@ -31,7 +31,7 @@ I'm a 2nd year PhD student working in the School of Mathematics and Physics at t
 10. Talk at the University of Twente (FUB), Department of Physics - Netherlands (March, 2023)
 11. Talk at Delft University of Technology (TU Delft), Department of Physics - Netherlands (March, 2023) 
 
-## Visits
+## Research visits
 1. Macquarie University (April-June 2017)
 2. University of Luxembourg (April-June 2018)
 3. Bonn-Cologne Graduate School (March 2019)

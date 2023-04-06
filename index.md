@@ -27,16 +27,16 @@ I'm a 2nd year PhD student working in the School of Mathematics and Physics at t
 6. Presented poster on Unitary Averaging at the 22th Asian Quantum Information Science Conference - Online (December, 2022)
 7. Accepted poster on Averaged Fusion Gates at Young Quantum, Harish-Chandra Research Institute (HRI) (February, 2023)
 8. Talk on 'Linear combination of unitaries in Linear Optics' at the Jonathan Dowling Memorial Conference organised by the Macquarie Centre for Quantum Engineering - The Quantum Terminal, Sydney (January, 2023)
-9. Poster at the Quantum Information Processing (QIP) conference - University of Ghent, Belgium (upcoming)
-10. Seminar talk at the Free University of Berlin (FUB), Department of Physics - Berlin (upcoming)
-11. Talk at Delft University of Technology (TU Delft), Department of Physics - Netherlands (upcoming) 
+9. Poster at the Quantum Information Processing (QIP) conference - University of Ghent, Belgium (February, 2023)
+10. Talk at the University of Twente (FUB), Department of Physics - Netherlands (March, 2023)
+11. Talk at Delft University of Technology (TU Delft), Department of Physics - Netherlands (March, 2023) 
 
 ## Visits
 1. Macquarie University (April-June 2017)
 2. University of Luxembourg (April-June 2018)
 3. Bonn-Cologne Graduate School (March 2019)
 4. Macquarie University (November 2022)
-5. Free University of Berlin (upcoming)
+5. Free University of Berlin (Feb-March 2023)
 
 ## Workshops and Summer Schools
 1. Attended the Random Matrix Theory in Quantum Information summer school organised by the Australian Mathematical Sciences Institute (AMSI) - University of Melbourne (January, 2023)

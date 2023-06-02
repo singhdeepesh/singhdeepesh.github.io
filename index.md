@@ -10,8 +10,8 @@ I'm a 2nd year PhD student working in the School of Mathematics and Physics at t
 1. QuNet: Cost vector analysis & multi-path entanglement routing in quantum networks (2021) [arXiv](https://arxiv.org/abs/2105.00418)
 2. Optical cluster-state generation with unitary averaging (2022) [arXiv](https://arxiv.org/abs/2209.15282)
 3. Saturating the Maximum Success Probability Bound for Noiseless Linear Amplification using Linear Optics (2022) [arXiv](https://arxiv.org/abs/2212.04274)
-4. Unitary Averaging with Fault and Loss Tolerance [arxiv](https://arxiv.org/abs/2304.14637)
-5. Proof-of-work consensus by quantum sampling [arxiv](https://arxiv.org/abs/2305.19865)
+4. Unitary Averaging with Fault and Loss Tolerance (2023) [arxiv](https://arxiv.org/abs/2304.14637)
+5. Proof-of-work consensus by quantum sampling (2023) [arxiv](https://arxiv.org/abs/2305.19865)
 
 
 ## Current Projects

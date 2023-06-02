@@ -10,6 +10,9 @@ I'm a 2nd year PhD student working in the School of Mathematics and Physics at t
 1. QuNet: Cost vector analysis & multi-path entanglement routing in quantum networks (2021) [arXiv](https://arxiv.org/abs/2105.00418)
 2. Optical cluster-state generation with unitary averaging (2022) [arXiv](https://arxiv.org/abs/2209.15282)
 3. Saturating the Maximum Success Probability Bound for Noiseless Linear Amplification using Linear Optics (2022) [arXiv](https://arxiv.org/abs/2212.04274)
+4. Unitary Averaging with Fault and Loss Tolerance [arxiv](https://arxiv.org/abs/2304.14637)
+5. Proof-of-work consensus by quantum sampling [arxiv](https://arxiv.org/abs/2305.19865)
+
 
 ## Current Projects
 1. Optical implementation of Grover's search algorithm (with Prof. Andrew White, UQ)
@@ -29,13 +32,15 @@ I'm a 2nd year PhD student working in the School of Mathematics and Physics at t
 9. Poster at the Quantum Information Processing (QIP) conference - University of Ghent, Belgium (February, 2023)
 10. Talk at the University of Twente (FUB), Department of Physics - Netherlands (March, 2023)
 11. Talk at Delft University of Technology (TU Delft), Department of Physics - Netherlands (March, 2023) 
+12. Talk at the annual Centre for Quantum Computation and Communications Technology (CQC2T) workshop - Hunter Valley (June, 2023)
 
 ## Research visits
-1. Macquarie University (April-June 2017)
-2. University of Luxembourg (April-June 2018)
-3. Bonn-Cologne Graduate School (March 2019)
-4. Macquarie University (November 2022)
-5. Free University of Berlin (Feb-March 2023)
+1. Macquarie University (April-June, 2017)
+2. University of Luxembourg (April-June, 2018)
+3. Bonn-Cologne Graduate School (March, 2019)
+4. Macquarie University (November, 2022)
+5. Free University of Berlin (Feb-March, 2023)
+6. Macquarie University (June, 2023)
 
 ## Workshops and Summer Schools
 1. Attended the Random Matrix Theory in Quantum Information summer school organised by the Australian Mathematical Sciences Institute (AMSI) - University of Melbourne (January, 2023)

@@ -12,6 +12,7 @@ I'm a 2nd year PhD student working in the School of Mathematics and Physics at t
 3. Saturating the Maximum Success Probability Bound for Noiseless Linear Amplification using Linear Optics (2022) [arXiv](https://arxiv.org/abs/2212.04274)
 4. Unitary Averaging with Fault and Loss Tolerance (2023) [arxiv](https://arxiv.org/abs/2304.14637)
 5. Proof-of-work consensus by quantum sampling (2023) [arxiv](https://arxiv.org/abs/2305.19865)
+6. Deterministic preparation of optical squeezed cat and Gottesman-Kitaev-Preskill states (2023) [arxiv](https://arxiv.org/abs/2311.10510)
 
 
 ## Current Projects
@@ -34,6 +35,7 @@ I'm a 2nd year PhD student working in the School of Mathematics and Physics at t
 11. Talk at Delft University of Technology (TU Delft), Department of Physics - Netherlands (March, 2023) 
 12. Talk at the annual Centre for Quantum Computation and Communications Technology (CQC2T) workshop - Hunter Valley (June, 2023)
 13. Presented poster on Error Mitigation at the Quantum Resources Theory Workshop, organised by National Technological University (NTU) - Singapore (December, 2023)
+14. Talk on 'Energy-efficient Proof-of-work by quantum sampling' at the Industry session (BTQ), Quantum Information Processing (QIP) conference - Taiwan (17 Jan, 2024)
 
 ## Research visits
 1. Macquarie University (April-June, 2017)

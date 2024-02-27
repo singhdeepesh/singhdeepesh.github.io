@@ -36,6 +36,7 @@ I'm a 2nd year PhD student working in the School of Mathematics and Physics at t
 12. Talk at the annual Centre for Quantum Computation and Communications Technology (CQC2T) workshop - Hunter Valley (June, 2023)
 13. Presented poster on Error Mitigation at the Quantum Resources Theory Workshop, organised by National Technological University (NTU) - Singapore (December, 2023)
 14. Talk on 'Energy-efficient Proof-of-work by quantum sampling' at the Industry session (BTQ), Quantum Information Processing (QIP) conference - Taiwan (17 Jan, 2024)
+15. Talk on 'Distributed consensus using boson sampling' at the Quantum Systems Seminar, Cybersecurity and Quantum Systems, Data61, CSIRO - Online (23 Feb, 2024)
 
 ## Research visits
 1. Macquarie University (April-June, 2017)

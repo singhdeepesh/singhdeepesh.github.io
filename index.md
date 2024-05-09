@@ -58,7 +58,7 @@ I'm a 3rd year PhD student working in the School of Mathematics and Physics at t
 2. Teaching Assistant, UQ & UCalgary (2022)
 3. Vice-President, UQ Optica student chapter (2023)
 
-## Contact me
+## Contact details
 1. <deepesh.sang@gmail.com>
 2. <deepesh.singh@uq.edu.au>
 

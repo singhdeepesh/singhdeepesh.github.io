@@ -14,6 +14,10 @@ I'm a 3rd year PhD student working in the School of Mathematics and Physics at t
 5. Proof-of-work consensus by quantum sampling (2023) [arxiv](https://arxiv.org/abs/2305.19865)
 6. Deterministic preparation of optical squeezed cat and Gottesman-Kitaev-Preskill states (2023) [arxiv](https://arxiv.org/abs/2311.10510)
 
+## Provisional Patents
+1. Improved Blockchain System and Method (2023)
+2. Deterministic cat and GKP state preparation protocols (2023)
+
 
 ## Current Projects
 1. Optical implementation of Grover's search algorithm (with Prof. Andrew White, UQ)

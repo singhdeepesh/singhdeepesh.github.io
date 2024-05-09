@@ -64,7 +64,7 @@ I'm a 3rd year PhD student working in the School of Mathematics and Physics at t
 
 ## Other Profiles
 1. [arXiv](http://arxiv.org/a/singh_d_6)
-2. [Google Scholar](https://scholar.google.com.au/citations?user=oC0b35QAAAAJ&hl=en)
+2. [Google Scholar](https://scholar.google.com.au/citations?hl=en&user=9k-91HwAAAAJ&view_op=list_works&gmla=ABOlHixXN1o_QraDF2UfExyXLbjmX8yRZCJN2_6l6yuUdlZBMzR6Wl5NVne9APYQwKt5oqWgxOhW12DZzqNWed0M)
 3. [LinkedIn](https://www.linkedin.com/in/deepesh--singh/)
 4. [Twitter](https://twitter.com/deepesh__singh)
 5. [EQuS Research Affiliate](https://equs.org/users/deepesh-singh)

@@ -17,15 +17,6 @@
             background-color: #f4f4f4;
             padding: 20px;
             text-align: center;
-            position: relative;
-        }
-        #cellular-automata {
-            position: absolute;
-            top: 0;
-            left: 0;
-            width: 100%;
-            height: 100%;
-            opacity: 0.2;
         }
         nav {
             background-color: #333;
@@ -105,70 +96,119 @@
 </head>
 <body>
     <header>
-        <canvas id="cellular-automata"></canvas>
         <h1>Deepesh Singh</h1>
         <p>PhD Researcher in Photonic Quantum Computation</p>
     </header>
 
-    <!-- Rest of the HTML remains the same -->
+    <nav>
+        <a href="#about">About</a>
+        <a href="#education">Education</a>
+        <a href="#publications">Publications</a>
+        <a href="#talks">Talks</a>
+        <a href="#contact">Contact</a>
+    </nav>
+
+    <section id="about">
+        <h2>About Me</h2>
+        <div class="about-content">
+            <img src="deepesh_presenting.jpg" alt="Deepesh Singh presenting" class="profile-image">
+            <div class="about-text">
+                <p>I'm a 3rd year PhD student in the School of Mathematics and Physics at the University of Queensland. My research focuses on Photonic quantum computation, supervised by Dr. Austin Lund, Dr. Peter Rohde, and Prof. Timothy Ralph. My research interests lie at the intersection of linear optical quantum computing, computational complexity theory, representations of groups and algebras, and classical invariant theory.</p>
+            </div>
+        </div>
+    </section>
+
+    <section id="education">
+        <h2>Education</h2>
+        <ul>
+            <li>PhD in Physics, University of Queensland, Australia (2021-Present)</li>
+            <li>BTech (Honours) in Engineering Physics, IIT Bombay, India (2015-2019)</li>
+        </ul>
+    </section>
+
+    <section id="publications">
+        <h2>Latest Publications</h2>
+        <div class="publication">
+            <strong>Saturating the maximum success probability bound for noiseless linear amplification using linear optics</strong> (2024)
+            <br>Joshua J. Guanzon, Matthew S. Winnel, Deepesh Singh, Austin P. Lund, Timothy C. Ralph
+            <br><a href="#">PRX Quantum Link</a>
+            <p class="summary">Achieved optimal performance in noiseless linear amplification using linear optical elements.</p>
+        </div>
+        <div class="publication">
+            <strong>Deterministic Preparation of Optical Squeezed Cat and Gottesman-Kitaev-Preskill States</strong> (2024)
+            <br>Matthew S. Winnel, Joshua J. Guanzon, Deepesh Singh, and Timothy C. Ralph
+            <br><a href="#">Physical Review Letters Link</a>
+            <p class="summary">Proposed a novel method for generating quantum states crucial for error correction in optical quantum computing.</p>
+        </div>
+        
+        <button type="button" class="collapsible">View All Publications</button>
+        <div class="content">
+            <div class="publication">
+                <strong>Proof-of-work consensus by quantum sampling</strong> (2023)
+                <br>Deepesh Singh, Boxiang Fu, Gopikrishnan Muraleedharan, Chen-Mou Cheng, Nicolas Roussy Newton, Peter P. Rohde, Gavin K. Brennen
+                <br><a href="https://arxiv.org/abs/2305.19865">arXiv:2305.19865</a>
+                <p class="summary">Introduced a quantum-inspired blockchain consensus mechanism that significantly reduces energy consumption.</p>
+            </div>
+            <div class="publication">
+                <strong>Unitary averaging with fault and loss tolerance</strong> (2023)
+                <br>Ryan J. Marshman, Deepesh Singh, Austin P. Lund, Timothy C. Ralph
+                <br><a href="#">Accepted in Physical Review A</a>
+                <p class="summary">Developed a fault-tolerant method for quantum state preparation using unitary averaging techniques.</p>
+            </div>
+            <div class="publication">
+                <strong>Optical cluster-state generation with unitary averaging</strong> (2022)
+                <br>Deepesh Singh, Austin P. Lund, Peter P. Rohde
+                <br><a href="#">Accepted in Physical Review A</a>
+                <p class="summary">Proposed a new method for generating large-scale quantum cluster states using unitary averaging.</p>
+            </div>
+            <div class="publication">
+                <strong>QuNet: Cost vector analysis & multi-path entanglement routing in quantum networks</strong> (2021)
+                <br>Hudson Leone, Nathaniel R. Miller, Deepesh Singh, Nathan K. Langford, Peter P. Rohde
+                <br><a href="https://arxiv.org/abs/2105.00418v2">arXiv:2105.00418v2</a>
+                <p class="summary">Developed an algorithm for optimizing entanglement distribution in quantum networks.</p>
+            </div>
+        </div>
+    </section>
+
+    <section id="talks">
+        <h2>Recent Talks & Presentations</h2>
+        <div class="talk">
+            <strong>Invited talk on 'Proof-of-work consensus by quantum sampling'</strong>
+            <br>QSI Seminar, Centre for Quantum Software and Information, University of Technology Sydney, Australia (June 21, 2024)
+        </div>
+        <div class="talk">
+            <strong>Poster on 'Proof-of-work consensus by quantum sampling'</strong>
+            <br>Annual Centre for Quantum Computation and Communications Technology (CQC2T) workshop, Magenta Shores, Australia (June 13, 2024)
+        </div>
+        
+        <button type="button" class="collapsible">View All Talks</button>
+        <div class="content">
+            <div class="talk">
+                <strong>Invited talk on 'Quantum blockchains'</strong>
+                <br>Quantum Systems Seminar, Cybersecurity and Quantum Systems, Data61, CSIRO, Australia (February 23, 2024)
+            </div>
+            <div class="talk">
+                <strong>Talk on 'Proof-of-work consensus by quantum sampling'</strong>
+                <br>Quantum Information Processing (QIP) 2024 Conference, Taiwan (January 17, 2024)
+            </div>
+            <!-- Add more talks as needed -->
+        </div>
+    </section>
+
+
+    <section id="contact" class="contact-info">
+        <h2>Contact Information</h2>
+        <p>Email: <a href="mailto:deepesh.singh@uq.edu.au">deepesh.singh@uq.edu.au</a></p>
+        <h3>Professional Profiles</h3>
+        <p>
+            <a href="http://arxiv.org/a/singh_d_6">arXiv</a> |
+            <a href="https://scholar.google.com.au/citations?hl=en&user=9k-91HwAAAAJ">Google Scholar</a> |
+            <a href="https://www.linkedin.com/in/deepesh--singh/">LinkedIn</a> |
+            <a href="https://twitter.com/deepesh__singh">Twitter</a>
+        </p>
+    </section>
 
     <script>
-        // Cellular Automata Animation
-        const canvas = document.getElementById('cellular-automata');
-        const ctx = canvas.getContext('2d');
-
-        canvas.width = canvas.offsetWidth;
-        canvas.height = canvas.offsetHeight;
-
-        const CELL_SIZE = 5;
-        const COLS = Math.floor(canvas.width / CELL_SIZE);
-        const ROWS = Math.floor(canvas.height / CELL_SIZE);
-
-        let grid = new Array(COLS).fill(null).map(() => new Array(ROWS).fill(0));
-
-        // Initialize random cells
-        for (let i = 0; i < COLS; i++) {
-            grid[i][ROWS - 1] = Math.random() > 0.5 ? 1 : 0;
-        }
-
-        function update() {
-            let newGrid = new Array(COLS).fill(null).map(() => new Array(ROWS).fill(0));
-
-            for (let i = 0; i < COLS; i++) {
-                for (let j = ROWS - 1; j > 0; j--) {
-                    let left = grid[(i - 1 + COLS) % COLS][j];
-                    let center = grid[i][j];
-                    let right = grid[(i + 1) % COLS][j];
-                    
-                    let rule = (left << 2) | (center << 1) | right;
-                    newGrid[i][j - 1] = (30 >> rule) & 1;
-                }
-            }
-
-            grid = newGrid;
-        }
-
-        function draw() {
-            ctx.clearRect(0, 0, canvas.width, canvas.height);
-            for (let i = 0; i < COLS; i++) {
-                for (let j = 0; j < ROWS; j++) {
-                    if (grid[i][j] === 1) {
-                        ctx.fillStyle = 'black';
-                        ctx.fillRect(i * CELL_SIZE, j * CELL_SIZE, CELL_SIZE, CELL_SIZE);
-                    }
-                }
-            }
-        }
-
-        function animate() {
-            update();
-            draw();
-            requestAnimationFrame(animate);
-        }
-
-        animate();
-
-        // Collapsible sections script
         var coll = document.getElementsByClassName("collapsible");
         var i;
 
